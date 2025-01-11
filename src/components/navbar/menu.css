@@ -1,0 +1,27 @@
+.navbar{
+    width: 100vw;
+    height: auto;
+    outline: 1px solid red;
+    display: flex;
+    .logo{
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100px;height: 100px;
+        background-color: rgba(0, 255, 0, .5);
+        outline: 1px solid rebeccapurple;
+    }
+    .nav{
+        width: 100vw;
+        outline: 1px solid green;
+        ul{
+            font-size: 1em;
+            text-align: center;
+        }
+        ul li{
+            list-style: none;
+            outline: 1px solid yellow;
+            padding: 1em;
+        }
+    }
+}
