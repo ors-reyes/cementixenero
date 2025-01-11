@@ -1,0 +1,11 @@
+section{
+    width: 100vw;
+    height: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+h1{
+    transform: translateX(135%);
+}
