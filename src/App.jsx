@@ -13,7 +13,7 @@ const App = () => {
   return (
     <>
       <Menu/>
-      <section><h1 className='a'>App a-01</h1></section>
+      {/* <section><h1 className='a'>App a-01</h1></section>
       <section><h1 className='b'>App b-02</h1></section>
       <section ref={elementoRef2}><h1 className='c'>{isIntersecting2 ? "dentro -1" : "fuera -1"}</h1></section>
       <section><h1 className='d'>App d-04</h1></section>
@@ -22,7 +22,7 @@ const App = () => {
       <section><h1 className='g'>App g-07</h1></section>
       <section ref={elementoRef}><h1 className='h'>{isIntersecting ? "dentro -2" : "fuera -2"}</h1></section>
       <section><h1 className='i'>App i-09</h1></section>
-      <section><h1 className='j'>App j-10</h1></section>
+      <section><h1 className='j'>App j-10</h1></section> */}
     </>
   )
 }
